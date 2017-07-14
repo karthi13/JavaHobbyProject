@@ -12,4 +12,4 @@ Take aways from this project:
 This project was compiled and executed under Eclipse Mars in Linux ubuntu 14.04 version.  
 
 Make sure your system has mysql server installed, so that all the .sql files can be added to the  
-database in that server and can be accessed.
+database in that server and can be accessed accordingly.
