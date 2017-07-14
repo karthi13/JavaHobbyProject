@@ -1,6 +1,6 @@
 # JavaHobbyProject
 
-This project was adapted from https://www.javatpoint.com/library-management-system-in-java-swing for educational purpose.  
+This project was adapted from [this link](https://www.javatpoint.com/library-management-system-in-java-swing) for educational purpose.  
 
 Take aways from this project:  
 
@@ -10,3 +10,6 @@ Take aways from this project:
 
 
 This project was compiled and executed under Eclipse Mars in Linux ubuntu 14.04 version.  
+
+Make sure your system has mysql server installed, so that all the .sql files can be added to the  
+database in that server and can be accessed.
